@@ -53,3 +53,23 @@ student = {
 }
 R/
 """
+student={
+    "name": "john",
+    "age" : 21,
+    "course":"AI",
+    }
+print(student["name"])
+
+## Bonus Question (Optional)
+Explain the difference between:
+A list: 
+is a collection of itms
+use square brackets
+allow duplicate values
+eg: list= [2,"abc",3.5,10]
+
+A dictionary:
+is a collection of key values pair
+use carlybraces
+no duplicate key
+eg: dict={"a":1, "xyz":"hello"}

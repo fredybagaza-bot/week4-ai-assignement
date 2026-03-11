@@ -23,15 +23,15 @@ Structured data has a fixed schema and fits neatly into rows and columns,
 such as names and phone numbers.
 ex:
 1.data stored in: database,excel,
-2.count people live in a counrty
-3.data of all iphone sells in a town like nairobi
+2.count people live in a counrty,
+3.data of all iphone sells in a town like nairobi,
 
 Unstructured data has no fixed schema and can have a more complex format, 
 ex: 
-1. audio files
-2. web pages.
-3.social media postes
-4.video footage
+1. audio files,
+2. web pages,
+3.social media postes,
+4.video footage,
 
 ## Question 3
 What is a  Schema?
